@@ -1,0 +1,18 @@
+.container {
+    max-width: 400px;
+    margin: 40px auto;
+    text-align: center;
+    border: 1px solid #eee;
+}
+
+#weatherDisplay {
+    margin-top: 20px;
+}
+
+.glass {
+    background: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(10px);
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
